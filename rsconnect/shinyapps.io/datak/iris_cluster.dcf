@@ -1,0 +1,12 @@
+name: iris_cluster
+title: iris_cluster
+username:
+account: datak
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3876481
+bundleId: 4414582
+url: https://datak.shinyapps.io/iris_cluster/
+when: 1617167915.96445
+asMultiple: FALSE
+asStatic: FALSE
